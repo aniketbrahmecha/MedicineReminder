@@ -1,0 +1,10 @@
+{
+  "packagerPort": 19001,
+  "packagerPid": 5796,
+  "expoServerPort": 19000,
+  "expoServerNgrokUrl": "https://gx-nn9.aniketbrahmecha.rn-starter.exp.direct",
+  "packagerNgrokUrl": "https://packager.gx-nn9.aniketbrahmecha.rn-starter.exp.direct",
+  "ngrokPid": 5612,
+  "devToolsPort": 19002,
+  "webpackServerPort": null
+}
